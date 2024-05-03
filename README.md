@@ -1,2 +1,0 @@
-# ashapurna-
-react-app-ashapurna
